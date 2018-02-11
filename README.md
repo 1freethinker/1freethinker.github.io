@@ -1,1 +1,1 @@
-# 1freethinker.github.io
+# Freethinkers Repository
